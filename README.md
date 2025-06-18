@@ -14,7 +14,7 @@ Written in pure Solidity. No tokens. No rewards. Just strategy and survival.
 - The biggest ball wins... or becomes the next target 🧨    
   
 ---  
-  
+    
 ## ✍️ Smart Contract
 
 - Language: Solidity ^0.8.24  
