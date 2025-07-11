@@ -12,7 +12,7 @@ Written in pure Solidity. No tokens. No rewards. Just strategy and survival.
 - When you eat a ball, its radius is **added** to yours.  
 - The eaten player is eliminated.      
 - The biggest ball wins... or becomes the next target 🧨      
-  
+   
 ---  
     
 ## ✍️ Smart Contract  
