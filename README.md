@@ -30,7 +30,7 @@ Written in pure Solidity. No tokens. No rewards. Just strategy and survival.
 2. Paste `BallEater.sol` into a new file 
 3. Deploy the contract using any test network 
 4. Interact via: 
-   - `createBall(uint)` – create your ball  
+   - `createBall(uint)` – create your ball   
    - `eatBall(address)` – eat a smaller ball  
    - `getMyRadius()` – check your current size  
 
