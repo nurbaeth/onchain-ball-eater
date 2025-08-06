@@ -24,7 +24,7 @@ Written in pure Solidity. No tokens. No rewards. Just strategy and survival.
 
 --- 
  
-## 🚀 How to Play (using Remix) 
+## 🚀 How to Play (using Remix)  
 
 1. Open [Remix IDE](https://remix.ethereum.org/) 
 2. Paste `BallEater.sol` into a new file
