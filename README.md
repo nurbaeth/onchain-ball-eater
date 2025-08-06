@@ -23,7 +23,7 @@ Written in pure Solidity. No tokens. No rewards. Just strategy and survival.
 - Transparent, deterministic PvP  
 
 --- 
-
+ 
 ## 🚀 How to Play (using Remix)
 
 1. Open [Remix IDE](https://remix.ethereum.org/)
