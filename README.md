@@ -21,7 +21,7 @@ Written in pure Solidity. No tokens. No rewards. Just strategy and survival.
 - Gas-optimized, minimalistic   
 - No offchain components     
 - Transparent, deterministic PvP   
- 
+  
 --- 
  
 ## 🚀 How to Play (using Remix)  
