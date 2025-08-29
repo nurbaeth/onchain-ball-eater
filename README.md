@@ -27,7 +27,7 @@ Written in pure Solidity. No tokens. No rewards. Just strategy and survival.
 ## 🚀 How to Play (using Remix)   
  
 1. Open [Remix IDE](https://remix.ethereum.org/)   
-2. Paste `BallEater.sol` into a new file  
+2. Paste `BallEater.sol` into a new file   
 3. Deploy the contract using any test network  
 4. Interact via: 
    - `createBall(uint)` – create your ball   
