@@ -6,7 +6,7 @@ Written in pure Solidity. No tokens. No rewards. Just strategy and survival.
 ---     
        
 ## 🧠 Gameplay       
-     
+      
 - Each player can **spawn a ball** with a chosen radius (1–100).      
 - If your ball is **larger than someone else's**, you can **eat** it.      
 - When you eat a ball, its radius is **added** to yours.    
