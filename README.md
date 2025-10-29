@@ -1,4 +1,4 @@
- # 🎱 Ball Eater — Onchain Game       
+ # 🎱 Ball Eater — Onchain Game        
        
 A fully onchain PvP game where **balls eat each other to grow**.       
 Written in pure Solidity. No tokens. No rewards. Just strategy and survival.      
