@@ -15,7 +15,7 @@ Written in pure Solidity. No tokens. No rewards. Just strategy and survival.
        
 ---      
         
-## ✍️ Smart Contract         
+## ✍️ Smart Contract          
       
 - Language: Solidity ^0.8.24      
 - Gas-optimized, minimalistic   
